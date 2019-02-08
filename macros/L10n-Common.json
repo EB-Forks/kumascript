@@ -114,7 +114,6 @@
         "en-US": "Reference",
         "de"   : "Referenz",
         "es"   : "Referencia",
-        "pt-BR": "Referência",
         "fr"   : "Référence",
         "ja"   : "リファレンス",
         "pt-BR": "Referência",
@@ -143,19 +142,18 @@
         "ca"   : "[Traduir]",
         "ru"   : "[Перевести]",
         "ja"   : "[翻訳する]"
-
     },
 
     "TranslationCTA": {
         "en-US": "Our volunteers haven't translated this article into your language yet. Join us and help get the job done!",
-        "de": "Unsere Freiwilligen haben diesen Artikel noch nicht ins Deutsche übersetzt. Machen Sie mit und helfen Sie, das zu erledigen!",
-        "es": "Nuestros voluntarios aún no han traducido este artículo al Español. ¡Únete a nosotros y ayuda a traducirlo!",
-        "fr": "Nos volontaires n'ont pas encore traduit cet article en français. Rejoignez-nous et aidez-nous à le faire&nbsp;!",
+        "de"   : "Unsere Freiwilligen haben diesen Artikel noch nicht ins Deutsche übersetzt. Machen Sie mit und helfen Sie, das zu erledigen!",
+        "es"   : "Nuestros voluntarios aún no han traducido este artículo al Español. ¡Únete a nosotros y ayuda a traducirlo!",
+        "fr"   : "Nos volontaires n'ont pas encore traduit cet article en français. Rejoignez-nous et aidez-nous à le faire&nbsp;!",
         "pt-BR": "Nossos voluntários ainda não traduziram este artigo para sua linguagem. Junte-se a nós e nos ajude a traduzir!",
         "zh-CN": "此页面仍未被本地化, 期待您的翻译!",
-        "ca" : "Els nostres voluntaris encara no han traduït aquest article al Català. Uneix-te a nosaltres i ajuda-ns a acabar la feina!",
-        "ru" : "Наши волонтёры ещё не перевели данную статью на Русский. Присоединяйтесь к нам и помогите закончить эту работу!",
-        "ja" : "まだボランティアによって日本語に翻訳されていない記事です。MDNに参加して、翻訳してみませんか？"
+        "ca"   : "Els nostres voluntaris encara no han traduït aquest article al Català. Uneix-te a nosaltres i ajuda-ns a acabar la feina!",
+        "ru"   : "Наши волонтёры ещё не перевели данную статью на Русский. Присоединяйтесь к нам и помогите закончить эту работу!",
+        "ja"   : "まだボランティアによって日本語に翻訳されていない記事です。MDNに参加して、翻訳してみませんか？"
     },
 
     "Guides": {

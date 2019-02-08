@@ -25,105 +25,105 @@
         "fr"   : "Serveur"
     },
     "bc_icon_name_webview_android": {
-         "en-US": "Android webview",
-         "de"   : "Android Webview",
-         "ja"   : "Android webview",
-         "nl"   : "Android webview",
-         "fr"   : "Webview Android"
+        "en-US": "Android webview",
+        "de"   : "Android Webview",
+        "ja"   : "Android webview",
+        "nl"   : "Android webview",
+        "fr"   : "Webview Android"
     },
     "bc_icon_name_chrome": {
-         "en-US": "Chrome",
-         "de"   : "Chrome",
-         "ja"   : "Chrome",
-         "nl"   : "Chrome",
-         "fr"   : "Chrome"
+        "en-US": "Chrome",
+        "de"   : "Chrome",
+        "ja"   : "Chrome",
+        "nl"   : "Chrome",
+        "fr"   : "Chrome"
     },
     "bc_icon_name_chrome_android": {
-         "en-US": "Chrome for Android",
-         "de": "Chrome für Android",
-         "ja": "Android 版 Chrome",
-         "nl": "Chrome voor Android",
-         "ru": "Chrome для Android",
-         "fr": "Chrome pour Android"
+        "en-US": "Chrome for Android",
+        "de"   : "Chrome für Android",
+        "ja"   : "Android 版 Chrome",
+        "nl"   : "Chrome voor Android",
+        "ru"   : "Chrome для Android",
+        "fr"   : "Chrome pour Android"
     },
     "bc_icon_name_edge": {
-         "en-US": "Edge",
-         "de"   : "Edge",
-         "ja"   : "Edge",
-         "nl"   : "Edge",
-         "fr"   : "Edge"
+        "en-US": "Edge",
+        "de"   : "Edge",
+        "ja"   : "Edge",
+        "nl"   : "Edge",
+        "fr"   : "Edge"
     },
     "bc_icon_name_edge_mobile": {
-         "en-US": "Edge Mobile",
-         "de"   : "Edge Mobile",
-         "ja"   : "Edge Mobile",
-         "nl"   : "Edge Mobile",
-         "fr"   : "Edge Mobile"
+        "en-US": "Edge Mobile",
+        "de"   : "Edge Mobile",
+        "ja"   : "Edge Mobile",
+        "nl"   : "Edge Mobile",
+        "fr"   : "Edge Mobile"
     },
     "bc_icon_name_firefox": {
-         "en-US": "Firefox",
-         "de"   : "Firefox",
-         "ja"   : "Firefox",
-         "nl"   : "Firefox",
-         "fr"   : "Firefox"
+        "en-US": "Firefox",
+        "de"   : "Firefox",
+        "ja"   : "Firefox",
+        "nl"   : "Firefox",
+        "fr"   : "Firefox"
     },
     "bc_icon_name_firefox_android": {
-         "en-US": "Firefox for Android",
-         "de": "Firefox für Android",
-         "ja": "Android 版 Firefox",
-         "nl": "Firefox voor Android",
-         "ru": "Firefox для Android",
-         "fr": "Firefox pour Android"
+        "en-US": "Firefox for Android",
+        "de"   : "Firefox für Android",
+        "ja"   : "Android 版 Firefox",
+        "nl"   : "Firefox voor Android",
+        "ru"   : "Firefox для Android",
+        "fr"   : "Firefox pour Android"
     },
     "bc_icon_name_ie": {
-         "en-US": "Internet Explorer",
-         "de"   : "Internet Explorer",
-         "ja"   : "Internet Explorer",
-         "nl"   : "Internet Explorer",
-         "fr"   : "Internet Explorer"
+        "en-US": "Internet Explorer",
+        "de"   : "Internet Explorer",
+        "ja"   : "Internet Explorer",
+        "nl"   : "Internet Explorer",
+        "fr"   : "Internet Explorer"
     },
     "bc_icon_name_nodejs": {
-         "en-US": "Node.js",
-         "de"   : "Node.js",
-         "ja"   : "Node.js",
-         "nl"   : "Node.js",
-         "fr"   : "Node.js"
+        "en-US": "Node.js",
+        "de"   : "Node.js",
+        "ja"   : "Node.js",
+        "nl"   : "Node.js",
+        "fr"   : "Node.js"
     },
     "bc_icon_name_opera": {
-         "en-US": "Opera",
-         "de"   : "Opera",
-         "ja"   : "Opera",
-         "nl"   : "Opera",
-         "fr"   : "Opera"
+        "en-US": "Opera",
+        "de"   : "Opera",
+        "ja"   : "Opera",
+        "nl"   : "Opera",
+        "fr"   : "Opera"
     },
     "bc_icon_name_opera_android": {
-         "en-US": "Opera for Android",
-         "de": "Opera für Android",
-         "ja": "Android 版 Opera",
-         "nl": "Opera voor Android",
-         "ru": "Opera для Android",
-         "fr": "Opera pour Android"
+        "en-US": "Opera for Android",
+        "de"   : "Opera für Android",
+        "ja"   : "Android 版 Opera",
+        "nl"   : "Opera voor Android",
+        "ru"   : "Opera для Android",
+        "fr"   : "Opera pour Android"
     },
     "bc_icon_name_safari": {
-         "en-US": "Safari",
-         "de"   : "Safari",
-         "ja"   : "Safari",
-         "nl"   : "Safari",
-         "fr"   : "Safari"
+        "en-US": "Safari",
+        "de"   : "Safari",
+        "ja"   : "Safari",
+        "nl"   : "Safari",
+        "fr"   : "Safari"
     },
     "bc_icon_name_safari_ios": {
-         "en-US": "Safari on iOS",
-         "de"   : "Safari auf iOS",
-         "ja"   : "iOSのSafari",
-         "nl"   : "Safari op iOS",
-         "fr"   : "Safari sur iOS"
+        "en-US": "Safari on iOS",
+        "de"   : "Safari auf iOS",
+        "ja"   : "iOSのSafari",
+        "nl"   : "Safari op iOS",
+        "fr"   : "Safari sur iOS"
     },
     "bc_icon_name_samsunginternet_android": {
-         "en-US": "Samsung Internet",
-         "de"   : "Samsung Internet",
-         "ja"   : "Samsung Internet",
-         "nl"   : "Samsung Internet",
-         "fr"   : "Samsung Internet"
+        "en-US": "Samsung Internet",
+        "de"   : "Samsung Internet",
+        "ja"   : "Samsung Internet",
+        "nl"   : "Samsung Internet",
+        "fr"   : "Samsung Internet"
     },
     "bc_history_head": {
         "en-US": "Implementation Notes",
