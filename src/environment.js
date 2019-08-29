@@ -141,7 +141,10 @@ class Environment {
          * implement on `globalsPrototype` because it needs access
          * to `this.templates`.
          *
-         * @type {(name: string, args: any[]) => Promise<string>}
+         * @type {{
+         *   (name: string, args: any[]): Promise<string>
+         *   resolve: (name: string) => string
+         * }}
          */
         let template = this._renderTemplate.bind(this);
         // This makes it so that `template.name` doesn't expose
@@ -150,9 +153,24 @@ class Environment {
             value: 'bound template',
             configurable: true
         });
+        /** @type {(name: string) => string} */
+        let resolve = this._renderTemplate_resolve.bind(this);
+        Object.defineProperty(resolve, 'name', {
+            value: 'bound resolve',
+            configurable: true
+        });
+        template.resolve = freeze(resolve);
         globals.template = freeze(template);
 
         this.prototypeEnvironment = freeze(globals);
+    }
+
+    /**
+     * @param {string} name
+     * @return {string}
+     */
+    _renderTemplate_resolve(name) {
+        return this.templates.getCanonicalMacroPath(name);
     }
 
     // A templating function that we define in the global environment

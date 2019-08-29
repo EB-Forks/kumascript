@@ -106,6 +106,22 @@ class Templates {
         return rendered.trim();
     }
 
+    /**
+     * Returns the canonical macro path for name
+     *
+     * @param {string} name
+     * @return {string}
+     */
+    getCanonicalMacroPath(name) {
+        // Normalize the macro name by converting colons to hyphens and
+        // uppercase letters to lowercase.
+        let fileName = name.replace(/:/g, '-');
+        let macroPath = this.macroNameToPath.get(fileName.toLowerCase());
+        return macroPath
+            ? path.relative(this.macroDirectory, macroPath)
+            : `${fileName}.ejs`;
+    }
+
     getTemplateMap() {
         return new Map(this.macroNameToPath);
     }

@@ -32,6 +32,7 @@ const expectedFunctions = [
     'require',
     'Require',
     'template',
+    'template.resolve',
 
     'kuma.htmlEscape',
     'kuma.HtmlEscape',

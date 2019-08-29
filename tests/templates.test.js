@@ -45,6 +45,14 @@ describe('Templates class', () => {
         );
     });
 
+    it('`getCanonicalMacroPath()` returns the canonical macro path, relative to `macroDirectory`', () => {
+        let directory = dir('macros');
+        let macros = new Templates(directory);
+        expect(macros.getCanonicalMacroPath('Test1')).toEqual('test1.ejs');
+        expect(macros.getCanonicalMacroPath('test2')).toEqual('Test2.ejs');
+        expect(macros.getCanonicalMacroPath('ASync')).toEqual('async.ejs');
+    });
+
     it('can render macros', async () => {
         let macros = new Templates(dir('macros'));
 
